@@ -1,1 +1,0 @@
-python UCDCN_train_backbone.py --backbone True
