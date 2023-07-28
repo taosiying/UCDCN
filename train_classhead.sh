@@ -1,5 +1,0 @@
-python UCDCN_train_classhead.py --checkpoint ./Experiments/20220610-18.13/models/checkpoint/best.pth --class-head ShuffleNet --learning-rate 0.003 --val-freq 500 --max-iters 2500
-python UCDCN_train_classhead.py --checkpoint ./Experiments/20220610-18.13/models/checkpoint/best.pth --class-head Linear --learning-rate 0.003 --val-freq 500 --max-iters 2500
-python UCDCN_train_classhead.py --checkpoint ./Experiments/20220610-18.13/models/checkpoint/best.pth --class-head Resnet18 --learning-rate 0.003 --val-freq 500 --max-iters 2500
-python UCDCN_train_classhead.py --checkpoint ./Experiments/20220610-18.13/models/checkpoint/best.pth --class-head VGG11 --learning-rate 0.003 --val-freq 500 --max-iters 2500
-python UCDCN_train_classhead.py --checkpoint ./Experiments/20220610-18.13/models/checkpoint/best.pth --class-head MobileNet --learning-rate 0.003 --val-freq 500 --max-iters 2500
